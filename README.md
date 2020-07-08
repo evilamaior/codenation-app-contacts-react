@@ -22,7 +22,9 @@ GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 
 ### Iniciar o projeto:
 
-- Instalar dependências do projeto: *yarn install* ou *npm install*.
+* **[Node v13.8.0](https://nodejs.org/en/)**
+* **[Create React App](https://github.com/facebook/create-react-app)**
+- Instalar dependências: *yarn install* ou *npm install*.
 - Rodar o projeto: *yarn start* ou *npm start* / *npm run start*.
 
 ## Tópicos:
@@ -34,11 +36,6 @@ Praticar conhecimentos em:
 - **Modularização**
 - **Fetch API**
 - **JS:** *Array.map*, *Array.filter*, *Array.reduce*, *Array.find*, *Array.sort*
-
-## Requisitos:
-
-* **[Node v13.8.0](https://nodejs.org/en/)**
-* **[Create React App](https://github.com/facebook/create-react-app)**
 
 ## Screenshot de Referência
 
