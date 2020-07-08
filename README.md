@@ -13,6 +13,7 @@ GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 
 ### Requisitos:
 
+- **[Create React App](https://github.com/facebook/create-react-app)**
 - Modularizar os componentes na pasta components.
 - Atualizar os arquivos de componentes carregando corretamente seus estilos e suas marcações JSX.
 - Criar os *estados* do SPA.
@@ -23,7 +24,6 @@ GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 ### Iniciar o projeto:
 
 * **[Node v13.8.0](https://nodejs.org/en/)**
-* **[Create React App](https://github.com/facebook/create-react-app)**
 * Instalar dependências: *yarn install* ou *npm install*.
 * Rodar o projeto: *yarn start* ou *npm start* / *npm run start*.
 
